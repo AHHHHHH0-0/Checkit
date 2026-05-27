@@ -1,5 +1,7 @@
 # Checkit
+LAHacks 2026 Project by Andrew and Numaan.
 
+## Overview
 > **"Are you sure it's edible?"**
 
 Checkit is an iOS foraging assistant that uses on-device AI to identify plants and objects through your camera, assess whether they're safe to eat, and answer questions about your environment through a voice-driven AI assistant.
